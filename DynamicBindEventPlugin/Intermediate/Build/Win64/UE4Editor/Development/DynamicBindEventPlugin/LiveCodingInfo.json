@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DynamicBindEventPlugin.cpp.obj": [
+			"DynamicBindEventPlugin.cpp.obj",
+			"DynamicBindEventPluginBPLibrary.cpp.obj"
+		],
+		"Module.DynamicBindEventPlugin.gen.cpp.obj": [
+			"DynamicBindEventPlugin.init.gen.cpp.obj",
+			"DynamicBindEventPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}

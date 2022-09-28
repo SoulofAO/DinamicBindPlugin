@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DynamicBindEventPlugin-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Cantolonia\Intermediate\Build\Win64\CantoloniaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Cantolonia\Plugins\DynamicBindEventPlugin\Intermediate\Build\Win64\UE4Editor\Development\DynamicBindEventPlugin\Module.DynamicBindEventPlugin.cpp.obj"
+"F:\Cantolonia\Plugins\DynamicBindEventPlugin\Intermediate\Build\Win64\UE4Editor\Development\DynamicBindEventPlugin\Module.DynamicBindEventPlugin.gen.cpp.obj"
+"F:\Cantolonia\Plugins\DynamicBindEventPlugin\Intermediate\Build\Win64\UE4Editor\Development\DynamicBindEventPlugin\Default.rc2.res"
+/OUT:"F:\Cantolonia\Plugins\DynamicBindEventPlugin\Intermediate\Build\Win64\UE4Editor\Development\DynamicBindEventPlugin\UE4Editor-DynamicBindEventPlugin-0007.lib"
